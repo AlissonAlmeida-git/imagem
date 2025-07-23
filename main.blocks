@@ -1,0 +1,9 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable type="KIND_SpriteKind" id="I0bm`kDzqZ(7Fbx=?s$q">Player</variable><variable type="KIND_SpriteKind" id="yvp}!G!VJrHU{h}]S{F/">Projectile</variable><variable type="KIND_SpriteKind" id="jJ1`9igFG#.wxytPpFdL">Food</variable><variable type="KIND_SpriteKind" id="z2KjD:Z1:xaZd1cW8XD6">Enemy</variable><variable id="}67s%!Ds8{WJ?T?;V=~$">temChaveAzul</variable><variable id="CDr@@Nd7pP;X%*E.op|R">temCorrente</variable><variable id="$31|GjlLJp(w,/b8sbCN">temBolsaVermelha</variable><variable id="FV@QG!7%^KQ:-F=JVG9;">emFuga</variable><variable id="VQNXicbfnXyKuf.SKhj[">lili</variable><variable id="!RRd9kPA=6!6dJG2_U8_">criatura</variable><variable id="5j,dXu/E%~^,oO:f_tuZ">obstaculo</variable><variable id="r8tMdK3(|QfL`3MB*8{}">mySprite</variable><variable id="#4Z7mGZTP0vn.e~gn^P=">mySprite2</variable><variable id="#BO#*r}9vF-iThe6lbV}">mySprite3</variable><variable id="HN!e0f{?amd4ua880=t1">mySprite4</variable></variables><comment id="+aFL+:kW|,xk!C|s2gMS" x="3238" y="1016" w="480" h="120">
+----------- VARIÁVEIS GLOBAIS DO JOGO -----------
+</comment><comment id="W+P/6Tzi9h/S~BC+ZUn0" x="3763" y="1016" w="420" h="120">
+Itens do inventário. Começam como "falso".
+</comment><comment id="qJW!s#yZ8/`6[de`8oOk" x="-233" y="2683" w="480" h="120">
+Sprites (personagens) que usaremos em cenas específicas
+</comment><comment id="L~w?(@2y.z(:^^sX?+39" x="292" y="2683" w="330" h="120">
+Controla o estado da cena de fuga
+</comment></xml>
